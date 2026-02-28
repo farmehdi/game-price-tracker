@@ -151,6 +151,8 @@ Apres execution du pipeline complet, le dossier `data/` contient :
 ## Auteurs
 
 - Mehdi FAR — M1 APE-DS2E, Universite de Strasbourg
+- Chaima Seif Al islam - M1 APE-DS2E, Universite de Strasbourg
+- Marwan Saidani - M1 APE-DS2E, Universite de Strasbourg
 
 ## Licence
 
