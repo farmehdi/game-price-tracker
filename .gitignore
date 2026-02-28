@@ -1,0 +1,31 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# Donnees generees (scraping)
+data/*.csv
+data/*.json
+data/*.png
+data/debug_*.html
+!data/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Systeme
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+geckodriver.log
+chromedriver.log
+
+# Env
+.env
