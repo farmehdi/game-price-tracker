@@ -152,7 +152,7 @@ Apres execution du pipeline complet, le dossier `data/` contient :
 
 - Mehdi FAR — M1 APE-DS2E, Universite de Strasbourg
 - Chaima Seif El islam - M1 APE-DS2E, Universite de Strasbourg
-- Marwan Saidani - M1 APE-DS2E, Universite de Strasbourg
+- Marwan-Habib Saidani - M1 APE-DS2E, Universite de Strasbourg
 
 ## Licence
 
